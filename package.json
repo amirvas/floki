@@ -1,0 +1,6 @@
+{
+  "name": "floki-group-prototype",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": { "dev": "python3 -m http.server 3000 --bind 0.0.0.0" }
+}
